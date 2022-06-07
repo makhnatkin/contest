@@ -1,0 +1,24 @@
+{
+  "name": "contest",
+  "version": "1.0.0",
+  "description": "Sergey Makhnatkin context",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./configs/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makhnatkin/contest.git"
+  },
+  "author": "Sergey Makhnatkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makhnatkin/contest/issues"
+  },
+  "homepage": "https://github.com/makhnatkin/contest#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.5.0",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.9.2"
+  }
+}
